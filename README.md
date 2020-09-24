@@ -7,4 +7,4 @@ Per rendere la stesura di questo documento più agevole si è realizzato un tool
 
 Questo tool è stato reso possibile dalla collaborazione tra AgID e il Politecnico di Torino per la sua definizione e il prezioso feed back di alcune amministrazioni tra le quali vanno ricordate la Regione Piemonte, la Regione Veneto, la Regione Emilia-Rmagna, la Regione Marche, la Regione Molise, il Comune di Firenze.
 
-Il Tool è naturalmente scaricabile è fruibile dalle amministrazioni interessate e saremo più che grati di poter ricevere consigli e aiuti per migliorare il prodotto.
+Il tool è naturalmente scaricabile è fruibile dalle amministrazioni interessate e saremo più che grati di poter ricevere consigli e aiuti per migliorare il prodotto.
