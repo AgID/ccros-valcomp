@@ -1,6 +1,6 @@
 # Tool per la Valutazione comparativa
 
-Le "Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni" entrate in vigore il 9 maggio 2019 hano cambiato i paradigmi per l'acquisizione del software da parte delle pubbliche amministrazioni. Da questa data l'acquisizione di software attraverso il riuso di soluzioni di proprietà delle amministrazioni deve essere preceduta dall'<B>obbligo di apporre una licenza aperta sul codice e la relativa documentazione, rendendo la <B>scelta open source strategica.
+Le "Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni" entrate in vigore il 9 maggio 2019 hano cambiato i paradigmi per l'acquisizione del software da parte delle pubbliche amministrazioni. Da questa data l'acquisizione di software attraverso il riuso di soluzioni di proprietà delle amministrazioni deve essere preceduta dall'<strong>obbligo di apporre una licenza aperta</strong> sul codice e la relativa documentazione, rendendo la <strong>scelta open source strategica</strong>.
 
 Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero un documento di valutazione comparativa che analizzasse le soluzioni open sorce rese disponibili dalle altre amministrazioni.
 
