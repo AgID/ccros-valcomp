@@ -1,4 +1,4 @@
-<img src="http://ristorazionebar.it/wp-content/uploads/2017/01/Senza-titolo-2-502x264.jpg">
+<img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Valcomp01.png">
 
 # Tool per la Valutazione comparativa
 
