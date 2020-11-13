@@ -2,7 +2,7 @@
 
 Le "Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni" entrate in vigore il 9 maggio 2019 hano cambiato i paradigmi per l'acquisizione del software da parte delle pubbliche amministrazioni. Da questa data l'acquisizione di software attraverso il riuso di soluzioni di proprietà delle amministrazioni deve essere preceduta dall'<strong>obbligo di apporre una licenza aperta</strong> sul codice e la relativa documentazione, rendendo la <strong>scelta open source strategica</strong>.
 
-Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero un documento di valutazione comparativa che analizzasse le soluzioni open sorce rese disponibili dalle altre amministrazioni.
+Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero <B>un documento di valutazione comparativa che analizzasse le soluzioni open sorce</B> rese disponibili dalle altre amministrazioni.
 
 Per rendere la stesura di questo documento più agevole si è realizzato un tool per supportare le amministrazioni in questa attività.
 
