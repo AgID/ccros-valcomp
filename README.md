@@ -1,3 +1,5 @@
+<img src="http://ristorazionebar.it/wp-content/uploads/2017/01/Senza-titolo-2-502x264.jpg">
+
 # Tool per la Valutazione comparativa
 
 Le "Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni" entrate in vigore il 9 maggio 2019 hanno cambiato i paradigmi per l'acquisizione del software da parte delle pubbliche amministrazioni. Da questa data l'acquisizione di software attraverso il riuso di soluzioni di proprietà delle amministrazioni deve essere preceduta dall'**obbligo di apporre una licenza aperta** sul codice e la relativa documentazione, rendendo la **scelta open source strategica**.
