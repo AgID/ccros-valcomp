@@ -65,3 +65,23 @@ Note:
 - Nel caso la mancanza di un requisito “Obbligatorio” escluda la possibilità di scegliere la soluzione (e avendone ovviamente verificato il soddisfacimento), è ragionevole pensare di utilizzare questo foglio di calcolo anche per i requisiti “Opzionali”, al fine comunque di darne una completa valutazione.
 
 ### 4. Criteri
+
+Questa pagina contiene i criteri di valutazione. Sono in sequenza e per ognuno di essi saranno a seguire indicate le modalità di composizione.
+
+#### 4.1 Interoperabilità
+
+Tabella 3<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab03.png" alt="Tabella 3">
+
+Per ognuno dei criteri e per ognuno dei software , rispondere “si” (senza accento) oppure “no”.
+
+I link rimandano ai documenti (e relative Sezioni) in cui è possibile verificare il soddisfacimento del criterio. Per esempio, i protocolli per l’interoperabilità cui si fa riferimento sono SOAP e REST (Sezioni 2.3 e 2.4 del Modello di Interoperabilità della Pubblica Amministrazione).
+
+I criteri che presentano l’asterisco vanno obbligatoriamente compilati, a meno che la soluzione che si deve valutare non gestisce/produce il criterio.
+
+#### 4.2 Protezione dati personali
+
+Per ognuno dei criteri e per ognuno dei software, rispondere “si” (senza accento) oppure “no”.
+
+Si noti che la compilazione di ogni criterio di questo tab è obbligatoria, a meno che la soluzione che si deve valutare non gestisca/produca il criterio.
+
+Tabella 4<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab04.png" alt="Tabella 4">
