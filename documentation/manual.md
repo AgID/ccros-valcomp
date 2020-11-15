@@ -26,7 +26,7 @@ Versione: 1.0
 7. TOPSISCalc
 
 
-### Considerazioni generali
+### 1. Considerazioni generali
 
 Questo documento intende fornire una guida alla compilazione del foglio di calcolo “Valutazione comparativa tecnico-economica”, utile per svolgere una valutazione comparativa tecnica ed economica di software a riuso o open source.
 
@@ -42,7 +42,7 @@ I Pesi sono assegnati in base a Macro-Categorie di software, individuate nel tab
 
 Al fine di raffinare l’adeguatezza delle Categorie e delle Macro-Categorie alla rappresentazione delle Soluzioni in Riuso Open Source per la Pubblica Amministrazione, si attiverà apposito Gruppo di Studio. Ovviamente qualsiasi suggerimento, nota, considerazione, critica è ben accetta, anzi, richiesta.
 
-### Prodotti selezionati
+### 2. Prodotti selezionati
 
 Tabella 1<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab01.jpg" alt="Tabella 01">
 
@@ -50,7 +50,7 @@ Per ognuno dei Prodotto selezionati, fornire le informazioni.
 
 Il nome del Prodotto sarà riproposto in tutte le pagine successive.
 
-### Requisiti funzionali e non
+### 3. Requisiti funzionali e non
 
 Tabella 2<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab02.png" alt="Tabella 02">
 
@@ -64,4 +64,4 @@ Note:
 - Per i requisiti “Obbligatori” si suggerisce di verificare preliminarmente se è plausibile accettare che alcuni requisiti non siano completamente soddisfatti e lo diventino solo se il divario tra requisiti presenti e requisiti mancanti si può/vuole coprire con interventi di adeguamento ad hoc. In questo caso, si suggerisce di accertarsi che i Requisiti Obbligatori che abbiano maggior peso specifico siano coperti al 100%, accettando la non completa copertura per Requisiti a minor peso specifico.
 - Nel caso la mancanza di un requisito “Obbligatorio” escluda la possibilità di scegliere la soluzione (e avendone ovviamente verificato il soddisfacimento), è ragionevole pensare di utilizzare questo foglio di calcolo anche per i requisiti “Opzionali”, al fine comunque di darne una completa valutazione.
 
-### Criteri
+### 4. Criteri
