@@ -53,3 +53,15 @@ Il nome del Prodotto sarà riproposto in tutte le pagine successive.
 ### Requisiti funzionali e non
 
 Tabella 2<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab02.png" alt="Tabella 02">
+
+Per ogni requisito funzionale e non funzionale, indicare il peso del requisito e la percentuale con cui ogni software copre il requisito. Per far ciò, in riferimento alla figura sopra riportata, compilare le righe 5, 6, 7,9, 10, 11 (colonna C per i pesi, colonne E, F e G per il grado di copertura).
+
+I requisiti funzionali possono essere evidentemente raggruppati in modalità espositiva consona con la struttura funzionale della soluzione.
+
+Note:
+- È importante l’attribuzione corretta dei pesi, da ricondurre ad una rappresentazione percentuale
+- Si suggerisce di effettuare la valutazione, suddividendo con precisione i requisiti tra “Obbligatori” e “Opzionali”. **È lasciato alla Pubblica Amministrazione valutante decidere la percentuale di copertura dei requisiti al di sotto della quale è inutile proseguire nella valutazione del Software**.
+- Per i requisiti “Obbligatori” si suggerisce di verificare preliminarmente se è plausibile accettare che alcuni requisiti non siano completamente soddisfatti e lo diventino solo se il divario tra requisiti presenti e requisiti mancanti si può/vuole coprire con interventi di adeguamento ad hoc. In questo caso, si suggerisce di accertarsi che i Requisiti Obbligatori che abbiano maggior peso specifico siano coperti al 100%, accettando la non completa copertura per Requisiti a minor peso specifico.
+- Nel caso la mancanza di un requisito “Obbligatorio” escluda la possibilità di scegliere la soluzione (e avendone ovviamente verificato il soddisfacimento), è ragionevole pensare di utilizzare questo foglio di calcolo anche per i requisiti “Opzionali”, al fine comunque di darne una completa valutazione.
+
+### Criteri
