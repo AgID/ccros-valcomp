@@ -44,7 +44,7 @@ Al fine di raffinare l’adeguatezza delle Categorie e delle Macro-Categorie all
 
 ### 2. Prodotti selezionati
 
-Tabella 1<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab01.pngg" alt="Tabella 01">
+Tabella 1<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab01.png" alt="Tabella 01">
 
 Per ognuno dei Prodotto selezionati, fornire le informazioni.
 
