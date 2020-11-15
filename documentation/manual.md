@@ -1,6 +1,7 @@
 ## Valutazione comparativa tecnica ed economica #
 
-### Guida alla compilazione<br>***
+### Guida alla compilazione
+***
 Versione: 1.0
 
 
@@ -44,3 +45,11 @@ Al fine di raffinare l’adeguatezza delle Categorie e delle Macro-Categorie all
 ### Prodotti selezionati
 
 Tabella 1<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab01.jpg" alt="Tabella 01">
+
+Per ognuno dei Prodotto selezionati, fornire le informazioni.
+
+Il nome del Prodotto sarà riproposto in tutte le pagine successive.
+
+### Requisiti funzionali e non
+
+Tabella 2<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab02.png" alt="Tabella 02">
