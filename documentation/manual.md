@@ -1,7 +1,6 @@
 ## Valutazione comparativa tecnica ed economica #
 
-### Guida alla compilazione
-***
+### Guida alla compilazione<br>***
 Versione: 1.0
 
 
