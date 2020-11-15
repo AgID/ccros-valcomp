@@ -1,4 +1,4 @@
-## Valutazione comparativa tecnica ed economica
+## Valutazione comparativa tecnica ed economica #
 
 ### Guida alla compilazione
 ***
@@ -45,4 +45,4 @@ Al fine di raffinare l’adeguatezza delle Categorie e delle Macro-Categorie all
 ### Prodotti selezionati
 
 <img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab01.jpg" alt="Tabella 01">
-
+> (Tabella 1)
