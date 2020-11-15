@@ -44,5 +44,5 @@ Al fine di raffinare l’adeguatezza delle Categorie e delle Macro-Categorie all
 
 ### Prodotti selezionati
 
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab01.jpg" alt="Tabella 01">
 
