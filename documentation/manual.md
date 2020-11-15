@@ -44,3 +44,5 @@ Al fine di raffinare l’adeguatezza delle Categorie e delle Macro-Categorie all
 
 ### Prodotti selezionati
 
+<img src="pic_trulli.jpg" alt="Italian Trulli">
+
