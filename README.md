@@ -22,8 +22,7 @@ Nella cartella /manual è presente la Guida alla compilazione dei due fogli di c
 La documentazione presente in questo repository è coperta dalla licenza **Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)**
 con l'eccezione dei fogli di calcolo che sono coperti dalla licenza **GNU Affero General Public License, versione 3**
 
-#
-# English version
+# [English version]
 
 # Comparative assessment tool
 
