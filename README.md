@@ -12,11 +12,37 @@ Questo tool è stato reso possibile dalla collaborazione tra il Centro di Compet
 
 Il tool è scaricabile e fruibile dalle amministrazioni interessate e accettiamo volentieri **suggerimenti e proposte di modifica** per migliorare il suo utilizzo.
 
-# Organizzazione del repo
+# Organizzazione del repository
 
 Dalla cartella /tool sono scaricabili i due fogli di calcolo necessari per completare la valutazione comparativa
 Nella cartella /manual è presente la Guida alla compilazione dei due fogli di calcolo sia in formato md sia, per praticità, in formato pdf
 
-# Licenza d'uso
+# Licenze d'uso
 
-I fogli di calcolo sono coperti dalla licenza **GNU Affero General Public License, versione 3**
+La documentazione presente in questo repository è coperta dalla licenza **Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)**
+con l'eccezione dei fogli di calcolo che sono coperti dalla licenza **GNU Affero General Public License, versione 3**
+
+#
+
+# Comparative assessment tool
+
+The "Guidelines on the acquisition and reuse of software for public administrations" entered into force on 9 May 2019 have changed the paradigms for the acquisition of software by Italian public administrations. From this date, the acquisition of software through the reuse of solutions owned by the administrations must be preceded by the **obligation to affix an open license** to the code and related documentation, making the **open source choice strategic**.
+
+To make this choice more efficient, economical and neutral, the administrations were required to prepare a comparative assessment document that analyzes the open source solutions made available by the other administrations.
+
+To make the drafting of this document easier, a tool has been created to support administrations in this activity.
+
+This tool was made possible by the collaboration between AgID's Reuse and Open Source Competence Center and the Nexa Research Center for Internet and Society at the Politecnico of Turin and the precious support of some administrations, including the Piemonte Region, the The Veneto Region, the Emilia-Romagna Region, the Marche Region, the Molise Region, the Municipality of Florence.
+
+The tool can be downloaded and used by the administrations concerned, from which we gladly accept suggestions and proposals for changes to improve its use.
+
+# Repository structure
+
+The two spreadsheets needed to complete the comparative evaluation can be downloaded from the /tool folder
+The /manual folder contains the Guide to compiling the two spreadsheets both in md format and, for convenience, in pdf format
+
+# Licenses
+
+The documentation in this repository is covered by the **Creative Commons Attribution 4.0 International license (CC BY 4.0)**
+with the exception of spreadsheets which are covered by the **GNU Affero General Public License, version 3**
+
