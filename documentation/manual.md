@@ -85,3 +85,83 @@ Per ognuno dei criteri e per ognuno dei software, rispondere “si” (senza acc
 Si noti che la compilazione di ogni criterio di questo tab è obbligatoria, a meno che la soluzione che si deve valutare non gestisca/produca il criterio.
 
 Tabella 4<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab04.png" alt="Tabella 4">
+
+#### 4.3 Sicurezza
+
+Tabella 5<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab05.png" alt="Tabella 5">
+
+Per ognuno dei criteri e per ognuno dei software, rispondere “si” (senza accento) oppure “no”.
+
+Si noti che la compilazione di ogni criterio di questo tab è obbligatoria.
+
+I link rimandano ai documenti (e Sezioni) in cui è possibile verificare il soddisfacimento del criterio.
+
+#### 4.4 Accessibilità
+
+Tabella 6<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab06.png" alt="Tabella 6">
+
+Per ogni software, rispondere alla checklist selezionando una sola risposta per software. Si noti che la compilazione di questo tab è obbligatoria.
+
+#### 4.5 Manutentore
+
+Tabella 7<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab07.png" alt="Tabella 7">
+
+Per ogni software, rispondere alla checklist selezionando una sola risposta per software.
+
+#### 4.6 Supporto
+
+Tabella 8<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab08.png" alt="Tabella 8">
+
+Per ognuno dei criteri e per ognuno dei software , rispondere “si” (senza accento) oppure “no”.
+
+In caso il software non necessiti di soggetti in grado di fornire supporto, si valorizza l’apposta riga con “nonec”. Si noti, che inconsiderazione dell’importanza di questa caratteristica, gli viene assegnato il peso “3”.
+
+#### 4.7 Dipendenze
+
+Tabella 9<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab09.png" alt="Tabella 9">
+
+Per ciascun software, inserire il numero di dipendenze con altro software (proprietario o open source).
+
+##### 4.8 Competenze PA
+
+Tabella 10<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab10.png" alt="Tabella 10">
+
+Per ogni software, rispondere alla checklist selezionando una sola risposta per software.
+
+#### 4.9 Numero PA
+
+Tabella 11<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab11.png" alt="Tabella 11">
+
+Per ogni software, inserire il numero di PA che utilizzano il software e il numero di PA che sono interessate all’acquisizione del software.
+
+##### 4.10 Vitalità
+
+Tabella 12<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab12.png" alt="Tabella 12">
+
+Per ogni software, inserire il valore di ognuno dei criteri della vitalità (tali valori sono reperibili per esempio nella pagina principale del software su Github). Non modificare i pesi indicati nella colonna B.
+
+### 5 TCO
+
+Tabella 13<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab13.png" alt="Tabella 13">
+
+Per ogni software, fornire una stima delle voci di costo. Il TCO è da compilare obbligatoriamente per l’articolo 68 comma 1 bis del CAD. Non è tuttavia necessario fornire una stima di tutte le voci di costo.
+
+Si noti inoltre che, per alcune voci di costo, vi sono delle sotto-voci la cui compilazione è anch’essa facoltativa. Tali sotto-voci appariranno cliccando sui simboli “+” presenti sulla sinistra. Se si decide di compilare le sotto-voci di una determinata voce di costo, tale voce di costo non va compilata: assumerà come valore la somma delle sue sotto-voci.
+
+È possibile inoltre specificare una durata della soluzione e il numero di PA che dividono i costi del TCO, se tali valori sono diversi da quelli attualmente suggeriti nel foglio di calcolo.
+
+### 6 Comparazione
+
+Tabella 14<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab14.png" alt="Tabella 14">
+
+Inserire i pesi per ogni criterio di valutazione in riga 2. Tali pesi vanno copiati dal foglio di calcolo “Pesi criteri di valutazione”. Utilizzare quelli corrispondenti alla categoria del software che si sta valutando.
+
+Non inserire i punteggi dei criteri di valutazione: questi ultimi appariranno automaticamente non appena saranno stati compilati i tab precedenti.
+
+Una volta inseriti i pesi, apparirà in basso la classifica dei software che si stanno comparando, risultato finale della valutazione comparativa tecnico-economica.
+
+### 7 TOPSISCalc
+
+In questo tab è implementato l’algoritmo di decisione multi-criteri TOPSIS, che produce la classifica dei software in base ai punteggi e ai pesi dei criteri di valutazione. Non è necessaria alcuna azione in questo tab.
+
+Tabella 15<br><img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Tab15.png" alt="Tabella 15">
