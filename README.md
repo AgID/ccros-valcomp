@@ -14,7 +14,8 @@ Il tool è scaricabile e fruibile dalle amministrazioni interessate e accettiamo
 
 # Organizzazione del repository
 
-Dalla cartella [/tool](/tool) sono scaricabili i due fogli di calcolo necessari per completare la valutazione comparativa
+Dalla cartella [/tool](/tool) sono scaricabili i due fogli di calcolo necessari per completare la valutazione comparativa.
+
 Nella cartella [/documentation](/documentation) è presente la Guida alla compilazione dei due fogli di calcolo sia in [formato MD](documentation/manual.md) sia, per praticità, in [formato PDF](documentation/SPCL4-AgID-CCROS-Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa%20V1.pdf)
 
 # Licenze d'uso
