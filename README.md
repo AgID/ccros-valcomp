@@ -1,21 +1,21 @@
 <img src="https://github.com/AgID/ccros-valcomp/blob/lab/images/Valcomp01.png">
 
-# Tool per la Valutazione comparativa
+# Tool per la Valutazione Comparativa nell'Acquisizione e Riuso di Software
 
-Le "Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni" entrate in vigore il 9 maggio 2019 hanno cambiato i paradigmi per l'acquisizione del software da parte delle pubbliche amministrazioni. Da questa data l'acquisizione di software attraverso il riuso di soluzioni di proprietà delle amministrazioni deve essere preceduta dall'**obbligo di apporre una licenza aperta** sul codice e la relativa documentazione, rendendo la **scelta open source strategica**.
+Le ["Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni"](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html) entrate in vigore il 9 maggio 2019 hanno cambiato i paradigmi per l'acquisizione del software da parte delle pubbliche amministrazioni. Da questa data l'acquisizione di software attraverso il riuso di soluzioni di proprietà delle amministrazioni deve essere preceduta dall'**obbligo di apporre una licenza aperta** sul codice e la relativa documentazione, rendendo la **scelta open source strategica**.
 
-Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero <B>un documento di valutazione comparativa che analizzasse le soluzioni open source</B> rese disponibili dalle altre amministrazioni.
+Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero **un documento di valutazione comparativa che analizzasse le soluzioni open source** rese disponibili dalle altre amministrazioni.
 
 Per rendere la stesura di questo documento più agevole si è realizzato un **tool per supportare le amministrazioni** in questa attività.
 
-Questo tool è stato reso possibile dalla collaborazione tra il Centro di Competenza Riuso e Open Source di AgID e il Politecnico di Torino e il prezioso supporto di alcune amministrazioni tra le quali vanno ricordate la Regione Piemonte, la Regione Veneto, la Regione Emilia-Romagna, la Regione Marche, la Regione Molise, il Comune di Firenze.
+Questo tool è stato reso possibile dalla collaborazione tra il Centro di Competenza Riuso e Open Source di AgID e il Politecnico di Torino e il prezioso supporto di alcune amministrazioni, tra le quali vanno ricordate la Regione Piemonte, la Regione Veneto, la Regione Emilia-Romagna, la Regione Marche, la Regione Molise, il Comune di Firenze.
 
 Il tool è scaricabile e fruibile dalle amministrazioni interessate e accettiamo volentieri **suggerimenti e proposte di modifica** per migliorare il suo utilizzo.
 
 # Organizzazione del repository
 
-Dalla cartella /tool sono scaricabili i due fogli di calcolo necessari per completare la valutazione comparativa
-Nella cartella /manual è presente la Guida alla compilazione dei due fogli di calcolo sia in formato md sia, per praticità, in formato pdf
+Dalla cartella [/tool](/tool) sono scaricabili i due fogli di calcolo necessari per completare la valutazione comparativa
+Nella cartella [/documentation](/documentation) è presente la Guida alla compilazione dei due fogli di calcolo sia in [formato MD](documentation/manual.md) sia, per praticità, in [formato PDF](documentation/SPCL4-AgID-CCROS-Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa%20V1.pdf)
 
 # Licenze d'uso
 
