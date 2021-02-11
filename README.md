@@ -40,7 +40,7 @@ The tool can be downloaded and used by the administrations concerned, from which
 # Repository structure
 
 The two spreadsheets needed to complete the comparative evaluation can be downloaded from the [/tool](/tool) folder
-The [/documentation](/documentation) folder contains the Guide to compiling the two spreadsheets both in [MD format](documentation/manual.md) and, for convenienc, in [PDF format](documentation/SPCL4-AgID-CCROS-Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa%20V1.pdf).
+The [/documentation](/documentation) folder contains the Guide to compiling the two spreadsheets both in [MD format](documentation/manual.md) and, for convenience, in [PDF format](documentation/SPCL4-AgID-CCROS-Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa%20V1.pdf).
 
 # Licenses
 
