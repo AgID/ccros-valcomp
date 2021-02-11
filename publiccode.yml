@@ -1,0 +1,93 @@
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - compliance-management
+dependsOn:
+  open:
+    - name: LibreOffice
+      optional: true
+      version: ''
+      versionMax: ''
+      versionMin: ''
+description:
+  it:
+    documentation: 'https://github.com/AgID/ccros-valcomp/tree/master/documentation'
+    features:
+      - Raccolta dati sulle soluzioni software
+      - Confronto delle soluzioni software
+      - Produzione di un report di valutazione
+    genericName: Foglio di calcolo
+    longDescription: |
+      Le ["Linee Guida su acquisizione e riuso di software per le pubbliche
+      amministrazioni"](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html) 
+      entrate in vigore il 9 maggio 2019 hanno cambiato i paradigmi per 
+      l'acquisizione del software da parte delle pubbliche amministrazioni. Da 
+      questa data l'acquisizione di software attraverso il riuso di soluzioni 
+      di proprietà delle amministrazioni deve essere preceduta dall'**obbligo di
+      apporre una licenza aperta** sul codice e la relativa documentazione,
+      rendendo la **scelta open source strategica**.
+
+
+      Per rendere più efficiente, econonomica e neutrale questa scelta è stato
+      previsto che le amministrazioni predisponessero [**un documento di
+      valutazione comparativa che analizzasse le soluzioni open
+      source**](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html)
+      rese disponibili dalle altre amministrazioni.
+
+
+      Per rendere la stesura di questo documento più agevole si è realizzato un
+      **tool per supportare le amministrazioni**  in questa attività, composto
+      da alcuni fogli di calcolo che permettono  di mettere a confronto i vari
+      aspetti delle scelte disponibili.
+    screenshots:
+      - |-
+        https://raw.githubusercontent.com/AgID/ccros-valcomp/master/images/Tab01.png
+      - |-
+        https://raw.githubusercontent.com/AgID/ccros-valcomp/master/images/Tab15.png
+    shortDescription: Ausilio per la valutazione comparativa fra soluzioni software
+developmentStatus: stable
+intendedAudience:
+  scope:
+    - government
+it:
+  conforme:
+    gdpr: false
+    lineeGuidaDesign: false
+    misureMinimeSicurezza: false
+    modelloInteroperabilita: false
+  countryExtensionVersion: '0.2'
+  piattaforme:
+    anpr: false
+    cie: false
+    pagopa: false
+    spid: false
+  riuso:
+    codiceIPA: agid
+legal:
+  authorsFile: 'https://raw.githubusercontent.com/AgID/ccros-valcomp/master/AUTHORS.md'
+  license: AGPL-3.0-only
+  mainCopyrightOwner: Centro di Competenza Riuso e Open Source di AgID
+  repoOwner: AgID
+localisation:
+  availableLanguages:
+    - it
+  localisationReady: false
+maintenance:
+  contacts:
+    - affiliation: AgID
+      email: pera@agid.gov.it
+      name: Guido Pera
+  type: internal
+name: Tool per la Valutazione Comparativa nell'Acquisizione e Riuso di Software
+platforms:
+  - windows
+  - mac
+  - linux
+  - ios
+  - android
+releaseDate: '2021-02-11'
+softwareType: standalone/other
+url: 'https://github.com/AgID/ccros-valcomp'
