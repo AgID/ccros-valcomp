@@ -25,9 +25,9 @@ con l'eccezione dei fogli di calcolo che sono coperti dalla licenza **GNU Affero
 
 # [English version]
 
-# Comparative assessment tool
+# Comparative assessment tool for the acquisition and reuse of software for public administrations
 
-The "Guidelines on the acquisition and reuse of software for public administrations" entered into force on 9 May 2019 have changed the paradigms for the acquisition of software by Italian public administrations. From this date, the acquisition of software through the reuse of solutions owned by the administrations must be preceded by the **obligation to affix an open license** to the code and related documentation, making the **open source choice strategic**.
+The ["Guidelines on the acquisition and reuse of software for public administrations"]((https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html) entered into force on May 9th, 2019, have changed the paradigms for the acquisition of software by Italian public administrations. From this date, the acquisition of software through the reuse of solutions owned by the administrations must be preceded by the **obligation to affix an open license** to the code and related documentation, making the **open source choice strategic**.
 
 To make this choice more efficient, economical and neutral, the administrations were required to prepare a comparative assessment document that analyzes the open source solutions made available by the other administrations.
 
@@ -39,8 +39,8 @@ The tool can be downloaded and used by the administrations concerned, from which
 
 # Repository structure
 
-The two spreadsheets needed to complete the comparative evaluation can be downloaded from the /tool folder
-The /manual folder contains the Guide to compiling the two spreadsheets both in md format and, for convenience, in pdf format
+The two spreadsheets needed to complete the comparative evaluation can be downloaded from the [/tool](/tool) folder
+The [/documentation](/documentation) folder contains the Guide to compiling the two spreadsheets both in [MD format](documentation/manual.md) and, for convenienc, in [PDF format](documentation/SPCL4-AgID-CCROS-Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa%20V1.pdf).
 
 # Licenses
 
