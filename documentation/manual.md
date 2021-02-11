@@ -2,28 +2,22 @@
 
 ### Guida alla compilazione
 ***
-Versione: 1.0
-
 
 ### Indice
 
-1. Considerazioni generali
-2. Prodotti selezionati
-3. Requisiti funzionali e non
-4. Criteri
-> - Interoperabilità
-> - Protezione dati personali
-> - Sicurezza
-> - Accessibilità
-> - Manutentore
-> - Supporto
-> - Dipendenze
-> - Competenze PA
-> - Numero PA
-> - Vitalità
-5. TCO
-6. Comparazione
-7. TOPSISCalc
+[1. Considerazioni generali](#1-considerazioni-generali)
+
+[2. Prodotti selezionati](#2-prodotti-selezionati)
+
+[3. Requisiti funzionali e non](#3-requisiti-funzionali-e-non)
+
+[4. Criteri](#4-criteri)
+
+[5. TCO](#5-tco)
+
+[6. Comparazione](#6-comparazione)
+
+[7. TOPSISCalc](#7-topsiscalc)
 
 
 ### 1. Considerazioni generali
