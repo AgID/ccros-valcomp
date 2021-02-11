@@ -6,9 +6,9 @@ Le ["Linee Guida su acquisizione e riuso di software per le pubbliche amministra
 
 Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero **un documento di valutazione comparativa che analizzasse le soluzioni open source** rese disponibili dalle altre amministrazioni.
 
-Per rendere la stesura di questo documento più agevole si è realizzato un **tool per supportare le amministrazioni** in questa attività.
+Per rendere la stesura di questo documento più agevole si è realizzato un **tool per supportare le amministrazioni** in questa attività, composto da alcuni fogli di calcolo che permettono di mettere a confronto i vari aspetti delle scelte disponibili.
 
-Questo tool è stato reso possibile dalla collaborazione tra il Centro di Competenza Riuso e Open Source di AgID e il Politecnico di Torino e il prezioso supporto di alcune amministrazioni, tra le quali vanno ricordate la Regione Piemonte, la Regione Veneto, la Regione Emilia-Romagna, la Regione Marche, la Regione Molise, il Comune di Firenze.
+Questo tool è stato reso possibile dalla collaborazione tra il [Centro di Competenza Riuso e Open Source di AgID](https://www.agid.gov.it/it/design-servizi/riuso-open-source/centro-competenza-riuso-open-source) e il [Nexa Center for Internet & Society del Politecnico di Torino](https://nexa.polito.it/), con il prezioso supporto di alcune amministrazioni, tra le quali vanno ricordate la [Regione Piemonte](https://www.regione.piemonte.it), la [Regione Veneto](https://www.regione.veneto.it), la [Regione Emilia-Romagna](https://www.regione.emilia-romagna.it), la [Regione Marche](https://www.regione.marche.it), la [Regione Molise](http://www.regione.molise.it), il [Comune di Firenze](https://www.comune.fi.it).
 
 Il tool è scaricabile e fruibile dalle amministrazioni interessate e accettiamo volentieri **suggerimenti e proposte di modifica** per migliorare il suo utilizzo.
 
@@ -31,11 +31,11 @@ The ["Guidelines on the acquisition and reuse of software for public administrat
 
 To make this choice more efficient, economical and neutral, the administrations were required to prepare a comparative assessment document that analyzes the open source solutions made available by the other administrations.
 
-To make the drafting of this document easier, a tool has been created to support administrations in this activity.
+To make the drafting of this document easier, a tool has been created to support administrations in this activity, providing with spreadsheets which enable to compare different aspects of the choices at hand.
 
-This tool was made possible by the collaboration between AgID's Reuse and Open Source Competence Center and the Nexa Research Center for Internet and Society at the Politecnico of Turin and the precious support of some administrations, including the Piemonte Region, the The Veneto Region, the Emilia-Romagna Region, the Marche Region, the Molise Region, the Municipality of Florence.
+This tool was made possible by the collaboration between [AgID's Reuse and Open Source Competence Center](https://www.agid.gov.it/it/design-servizi/riuso-open-source/centro-competenza-riuso-open-source) and the [Nexa Research Center for Internet and Society at the Politecnico of Turin](https://nexa.polito.it/) and the precious support of some administrations, including the [Piemonte Region](https://www.regione.piemonte.it), the [Veneto Region](https://www.regione.veneto.it), the [Emilia-Romagna Region](https://www.regione.emilia-romagna.it), the [Marche Region](https://www.regione.marche.it), the [Molise Region](http://www.regione.molise.it), and the [Municipality of Florence](https://www.comune.fi.it).
 
-The tool can be downloaded and used by the administrations concerned, from which we gladly accept suggestions and proposals for changes to improve its use.
+The tool can be downloaded and used by the administrations concerned, from which we **gladly accept suggestions and proposals for changes to improve its use**.
 
 # Repository structure
 
