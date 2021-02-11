@@ -4,7 +4,7 @@
 
 Le ["Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni"](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html) entrate in vigore il 9 maggio 2019 hanno cambiato i paradigmi per l'acquisizione del software da parte delle pubbliche amministrazioni. Da questa data l'acquisizione di software attraverso il riuso di soluzioni di proprietà delle amministrazioni deve essere preceduta dall'**obbligo di apporre una licenza aperta** sul codice e la relativa documentazione, rendendo la **scelta open source strategica**.
 
-Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero **un documento di valutazione comparativa che analizzasse le soluzioni open source** rese disponibili dalle altre amministrazioni.
+Per rendere più efficiente, econonomica e neutrale questa scelta è stato previsto che le amministrazioni predisponessero [**un documento di valutazione comparativa che analizzasse le soluzioni open source**](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html) rese disponibili dalle altre amministrazioni.
 
 Per rendere la stesura di questo documento più agevole si è realizzato un **tool per supportare le amministrazioni** in questa attività, composto da alcuni fogli di calcolo che permettono di mettere a confronto i vari aspetti delle scelte disponibili.
 
@@ -29,7 +29,7 @@ con l'eccezione dei fogli di calcolo che sono coperti dalla licenza **GNU Affero
 
 The ["Guidelines on the acquisition and reuse of software for public administrations"](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/index.html) entered into force on May 9th, 2019, have changed the paradigms for the acquisition of software by Italian public administrations. From this date, the acquisition of software through the reuse of solutions owned by the administrations must be preceded by the **obligation to affix an open license** to the code and related documentation, making the **open source choice strategic**.
 
-To make this choice more efficient, economical and neutral, the administrations were required to prepare a comparative assessment document that analyzes the open source solutions made available by the other administrations.
+To make this choice more efficient, economical and neutral, the administrations were required to prepare a [comparative assessment document](https://docs.italia.it/italia/developers-italia/lg-acquisizione-e-riuso-software-per-pa-docs/it/stabile/acquisizione-software/valutazione-comparativa.html) that analyzes the open source solutions made available by the other administrations.
 
 To make the drafting of this document easier, a tool has been created to support administrations in this activity, providing with spreadsheets which enable to compare different aspects of the choices at hand.
 
