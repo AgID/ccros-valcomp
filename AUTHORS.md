@@ -1,4 +1,4 @@
-Autore del Tool
+Autori dello strumento 
 
 - Centro di Competenza Riuso e Open Source dell'Agenzia per l'Italia Digitale
 

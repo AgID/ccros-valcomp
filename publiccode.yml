@@ -38,8 +38,8 @@ description:
       rese disponibili dalle altre amministrazioni.
 
 
-      Per rendere la stesura di questo documento più agevole si è realizzato un
-      **tool per supportare le amministrazioni**  in questa attività, composto
+      Per rendere la stesura di questo documento più agevole si è realizzato uno
+      **strumento per supportare le amministrazioni**  in questa attività, composto
       da alcuni fogli di calcolo che permettono  di mettere a confronto i vari
       aspetti delle scelte disponibili.
     screenshots:
@@ -81,7 +81,7 @@ maintenance:
       email: pera@agid.gov.it
       name: Guido Pera
   type: internal
-name: Tool per la Valutazione Comparativa nell'Acquisizione e Riuso di Software
+name: Strumento per la Valutazione Comparativa nell'Acquisizione e Riuso di Software
 platforms:
   - windows
   - mac
