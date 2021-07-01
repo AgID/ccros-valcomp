@@ -16,7 +16,7 @@ Il tool è scaricabile e fruibile dalle amministrazioni interessate e accettiamo
 
 Dalla cartella [/tool](/tool) sono scaricabili i due fogli di calcolo necessari per completare la valutazione comparativa.
 
-Nella cartella [/documentation](/documentation) è presente la Guida alla compilazione dei due fogli di calcolo sia in [formato MD](documentation/manual.md) sia, per praticità, in [formato PDF](documentation/SPCL4-AgID-CCROS-Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa%20V1.pdf)
+Nella cartella [/documentation](/documentation) è presente la Guida alla compilazione dei due fogli di calcolo sia in [formato MD](documentation/manual.md) sia, per praticità, in [formato PDF](documentation/Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa.pdf)
 
 # Licenze d'uso
 
@@ -40,7 +40,7 @@ The tool can be downloaded and used by the administrations concerned, from which
 # Repository structure
 
 The two spreadsheets needed to complete the comparative evaluation can be downloaded from the [/tool](/tool) folder
-The [/documentation](/documentation) folder contains the Guide to compiling the two spreadsheets both in [MD format](documentation/manual.md) and, for convenience, in [PDF format](documentation/SPCL4-AgID-CCROS-Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa%20V1.pdf).
+The [/documentation](/documentation) folder contains the Guide to compiling the two spreadsheets both in [MD format](documentation/manual.md) and, for convenience, in [PDF format](documentation/Guida%20alla%20compilazione%20della%20Valutazione%20Comparativa.pdf).
 
 # Licenses
 
